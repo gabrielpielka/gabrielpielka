@@ -12,7 +12,7 @@ I design end-to-end AI automations that run on their own cadence in real operati
 
 ## Stack
 
-`Copilot Studio` · `Claude Cowork` · Power Automate` · `Power Apps` · `Power BI (DAX, Power Query)` · `Claude Code` · `Excel` · `Python (learning)`
+`Copilot Studio` · `Claude Cowork` ·`Power Automate` · `Power Apps` · `Power BI (DAX, Power Query)` · `Claude Code` · `Excel` · `Python (learning)`
 
 ## Currently
 
