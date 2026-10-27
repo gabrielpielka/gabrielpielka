@@ -1,9 +1,12 @@
-# Hi, I'm Gábriel 
+# Hi, I'm Gábriel
 
-**AI Agent Developer** building production agentic workflows with **Claude Cowork**, **Claude Code**, **Copilot Studio**, **Power Automate**, and **Power BI**.
+**AI implementation and automation consultant.** I build AI agents and automations with **Claude Code**, **Claude Cowork** and the **Power Platform**, and I have practised **Copilot Studio** through the Agent Academy.
+
 ## What I do
 
-I design end-to-end AI automations that run on their own cadence in real operations, not demos. Currently operating 5 production systems for 5 different clients (4 McDonald's franchise payroll pipelines + 1 escape-room operator) plus an 8-service AI email assistant. A 10-year project manager background gives me the business context most pure-tech roles miss.
+For ten years I was a project manager. In my last year there I automated the payroll data processing of five partners (4 McDonald's franchise partners and an escape-room operator) with AI; from March 2026 it ran without human intervention, saving about 900 project-management hours a year.
+
+Since 2026 I run my own AI and automation business for Hungarian SMEs ([nulladmin.hu](https://nulladmin.hu)), with a multi-agent assistant system and web apps built with Claude Code.
 
 ## Featured projects
 
@@ -12,14 +15,12 @@ I design end-to-end AI automations that run on their own cadence in real operati
 
 ## Stack
 
-`Copilot Studio` · `Claude Cowork` ·`Power Automate` · `Power Apps` · `Power BI (DAX, Power Query)` · `Claude Code` · `Excel` · `Python (learning)`
+`Claude Code` · `Claude Cowork` · `Power Automate` · `Power Apps` · `Power BI (DAX, Power Query)` · `Excel` · `Copilot Studio (Agent Academy)` · `Python (fundamentals, AI-assisted)`
 
 ## Currently
 
-- Preparing for **Microsoft AB-620** (AI Agent Builder Associate) certification, expected July-August 2026
-- Building Python fluency in parallel
-- Open to AI Agent / Copilot Studio / Power Platform developer roles (Budapest hybrid or EU remote)
+Open to AI implementation, automation and AI operations roles (Budapest hybrid or remote).
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/gabrielpielka/)  
+[LinkedIn](https://www.linkedin.com/in/gabrielpielka/) · [nulladmin.hu](https://nulladmin.hu)
